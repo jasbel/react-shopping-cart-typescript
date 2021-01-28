@@ -1,4 +1,7 @@
 
+## Practice React Typescript
 
-### reference github
+
+### reference
+https://www.youtube.com/watch?v=sfmL6bGbiN8
 https://github.com/weibenfalk/react-shopping-cart
